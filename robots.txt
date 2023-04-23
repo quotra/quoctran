@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://quotra.github.io/al-folio/sitemap.xml
+Sitemap: https://quotra.github.io/quoctran/sitemap.xml
